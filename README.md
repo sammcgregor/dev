@@ -1,3 +1,3 @@
-# Secure Delivery Playbook
+# Dev Repo
 
-This repo contains the content behind the [Equal Experts Secure Delivery Playbook](https://secure-delivery.playbook.ee)
+This repo contains no code of interest. It’s just used to test and experiment at the moment
